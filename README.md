@@ -1,13 +1,13 @@
 ![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cf06a29-04a0-4466-9f83-ab6b9658149f/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjZjA2YTI5LTA0YTAtNDQ2Ni05ZjgzLWFiNmI5NjU4MTQ5ZlwvZGVtcGdpNy01MjBmOGQ1Zi02M2Q0LTQ0NTMtODgyMi1kYmMxNDlhZTI3ZjguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TeuN0B5RgPUykYQkZXa8ArTYZ7GlxIpIVJUfQQMWCgM)
 <h1 align="center">Hi 👋, I'm Mohammad Faiz Khan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 <img align="right" alt="Coading" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmd6aTNtY3E2OGlnMWNma2x2dDB6YmtrdGV6eGkwZWg1aXZ2MTFmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamfaizzz&label=Profile%20views&color=0e75b6&style=flat" alt="iamfaizzz" /> </p>
 
 <p align="left"> <a href="https://twitter.com/iamfaizzz" target="blank"><img src="https://img.shields.io/twitter/follow/iamfaizzz?logo=twitter&style=for-the-badge" alt="iamfaizzz" /></a> </p>
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **Java Script**
 
 - 💬 Ask me about **HTML, CSS**
 
